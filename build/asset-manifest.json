@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.f86f056e.chunk.js",
-    "main.js.map": "/static/js/main.f86f056e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ee00d7ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ee00d7ca.js.map",
-    "static/js/2.1e7d6eb1.chunk.js": "/static/js/2.1e7d6eb1.chunk.js",
-    "static/js/2.1e7d6eb1.chunk.js.map": "/static/js/2.1e7d6eb1.chunk.js.map",
+    "main.css": "/static/css/main.936e440f.chunk.css",
+    "main.js": "/static/js/main.cc43bf97.chunk.js",
+    "main.js.map": "/static/js/main.cc43bf97.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b76a5597.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b76a5597.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.c2e28902.chunk.js": "/static/js/2.c2e28902.chunk.js",
+    "static/js/2.c2e28902.chunk.js.map": "/static/js/2.c2e28902.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ad1ca83a348274c5256ee37f19a9f007.js": "/precache-manifest.ad1ca83a348274c5256ee37f19a9f007.js",
+    "precache-manifest.ae8f2bbc66392ad4bbf8d5945e5f123b.js": "/precache-manifest.ae8f2bbc66392ad4bbf8d5945e5f123b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1e7d6eb1.chunk.js.LICENSE.txt": "/static/js/2.1e7d6eb1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.936e440f.chunk.css.map": "/static/css/main.936e440f.chunk.css.map",
+    "static/js/2.c2e28902.chunk.js.LICENSE.txt": "/static/js/2.c2e28902.chunk.js.LICENSE.txt",
+    "static/media/SelectSchool.css": "/static/media/banner-img.4bfe2f12.png",
+    "static/media/logo.png": "/static/media/logo.5a791230.png",
+    "static/media/HomePage.css": "/static/media/orange-banner.70f16c6f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee00d7ca.js",
-    "static/js/2.1e7d6eb1.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f86f056e.chunk.js"
+    "static/js/runtime-main.b76a5597.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c2e28902.chunk.js",
+    "static/css/main.936e440f.chunk.css",
+    "static/js/main.cc43bf97.chunk.js"
   ]
 }
